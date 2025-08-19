@@ -24,18 +24,20 @@ It provides developers with instant feedback on code quality, best practices, an
 ---
 
 ## 📂 Project Structure  
+
 code-review/
-│── Backend/ # Node.js + Express API
-│ ├── src/
-│ │ ├── controllers/ # AI logic handlers
-│ │ ├── routes/ # API endpoints
-│ │ └── services/ # Core AI services
-│ └── server.js
+│── Backend/         # Node.js + Express API
+│   ├── src/
+│   │   ├── controllers/   # AI logic handlers
+│   │   ├── routes/        # API endpoints
+│   │   └── services/      # Core AI services
+│   └── server.js
 │
-│── Frontend/ # React + Vite app
-│ ├── src/
-│ │ ├── App.jsx
-│ │ └── assets/
-│ └── vite.config.js
+│── Frontend/        # React + Vite app
+│   ├── src/
+│   │   ├── App.jsx
+│   │   └── assets/
+│   └── vite.config.js
 │
 └── README.md
+
