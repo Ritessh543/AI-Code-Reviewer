@@ -14,9 +14,12 @@ It provides developers with instant feedback on code quality, best practices, an
 - **Other Tools:** Git, npm  
 
 ---
-## Screenshots
-[./Screenshot1.png]
-[./Screenshot2.png]
+### 🧠 AI Review Interface  
+![AI Review Screenshot](./Screenshot2.png)
+
+### 💻 Code Editor & Output  
+![Code Editor Screenshot](./Screenshot1.png)
+
 
 ## ✨ Features  
 - 🔍 **Automated AI Code Reviews** – Get instant suggestions on your code.  
